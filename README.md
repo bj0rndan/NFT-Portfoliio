@@ -15,3 +15,14 @@ ART, created by ARTificial intelligence:
 
 https://user-images.githubusercontent.com/73667700/150991317-6156a87e-cf0a-4817-b0dd-f99f38f67563.mp4
 
+## "I am a something of an artist myself"
+
+"I am a something of an artist myself" is a series of artworks made by a larger equivalent of the previous model. Each of the pieces now have 256 pixels in both height and width dimensions, instead of the 128 pixel images created by this earlier model version.
+
+
+![256px_1](https://user-images.githubusercontent.com/73667700/151207960-bbc6e6d4-5d67-48bf-bdea-0af9eceec642.png)
+![256px_2](https://user-images.githubusercontent.com/73667700/151207969-5b3b45b6-6947-40aa-800b-0d20c054c7bd.png)
+![256px_3](https://user-images.githubusercontent.com/73667700/151207985-3e9da2d6-1701-4dad-b35f-13c76da9a7f9.png)
+![256px_4](https://user-images.githubusercontent.com/73667700/151208000-ffe2ca6a-5a13-4d58-af88-1ff6c2f92551.png)
+![256px_5](https://user-images.githubusercontent.com/73667700/151208005-eea1af79-122d-4d99-a9d0-6ea95736c26d.png)
+![256px_6](https://user-images.githubusercontent.com/73667700/151208009-13101a74-14a1-4b5f-8ab2-a49a7b5f850e.png)
